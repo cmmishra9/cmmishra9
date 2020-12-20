@@ -1,4 +1,4 @@
- # Hi, I'm  👋 👋🏾 👩🏾‍💻
+ # Hi, I'm Chandan 👋 👋🏾 👩🏾‍💻
 
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the Tech ecosystem led me to found <a href="https://www.iqbotics.com/">Iqbotics India</a>, a company for AI and Robotics design & development.
