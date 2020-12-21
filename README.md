@@ -6,8 +6,8 @@ I'm a software enthusiast who is passionate about making open-source more access
 
 ## Find me around the web 🌎: 
 <a href="https://github.com/cmmishra9" style="margin-right:10px;"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Chandan Mishra</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/cmmishra9"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
 
 - 🔭 I’m currently working on Internwala
