@@ -4,7 +4,8 @@
 I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the Tech ecosystem led me to found <a href="https://www.iqbotics.com/">Iqbotics India</a>, a company for AI and Robotics design & development.
 
 
-## Find me around the web 🌎: <a href="https://github.com/cmmishra9"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: 
+<a href="https://github.com/cmmishra9"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
