@@ -1,8 +1,14 @@
  # Hi, I'm Chandan 👋 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/profile-header.png" alt="banner that says Chandan Mishra - software engineer, Founder and Mentor alongside a cartoon illustration of Chandan">
-I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the Tech ecosystem led me to found <a href="https://www.iqbotics.com/">Iqbotics India</a>, a company for AI and Robotics design & development.
-
+![Banner with Chandan mishra, Software Developer, Founder of iqbotics, Mentors](https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/profile-header.png)
+<div style="display:flex; flex-direction:row;">
+<div style="text-align: ;margin:0 2px;">
+I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the Tech ecosystem led me to found Iqbotics India, a company for AI and Robotics design & development.
+</div>
+<div>
+![thinking](https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/Privacy-Policy-Designing-Fever.gif)
+</div>
+</div>
 
 ## Find me around the web 🌎: 
 <a href="https://github.com/cmmishra9" style="margin-right:10px;"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png"></a>
