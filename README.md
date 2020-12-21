@@ -2,11 +2,12 @@
 
 ![Banner with Chandan mishra, Software Developer, Founder of iqbotics, Mentors](https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/profile-header.png)
 <div style="display:flex; flex-direction:row;">
-<div style="text-align: ;margin:0 2px;">
+<div style="text-align: justify;margin: 2px;">
 I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the Tech ecosystem led me to found Iqbotics India, a company for AI and Robotics design & development.
 </div>
 <div>
-![thinking](https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/Privacy-Policy-Designing-Fever.gif)
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/Privacy-Policy-Designing-Fever.gif?raw=true" width="200" height="320" />
 </div>
 </div>
 
