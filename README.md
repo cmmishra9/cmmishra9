@@ -9,7 +9,8 @@
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/Privacy-Policy-Designing-Fever.gif?raw=true" width="200" height="320" />
  </div>
 </div>
-<br/>
+<br>
+
 ## Find me around the web 🌎: 
 <a href="https://github.com/cmmishra9" style="margin-right:10px;"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Chandan Mishra</a> 📹 ✍🏾
