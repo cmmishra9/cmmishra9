@@ -2,15 +2,14 @@
 
 ![Banner with Chandan mishra, Software Developer, Founder of iqbotics, Mentors](https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/profile-header.png)
 <div style="display:flex; flex-direction:row;">
-<div style="text-align: justify;margin: 2px;">
-I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the Tech ecosystem led me to found Iqbotics India, a company for AI and Robotics design & development.
+ <div style="text-align: justify;margin: 2px;">
+ I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the Tech ecosystem led me to found Iqbotics India, a company for AI and Robotics design & development.
+ </div>
+ <div>
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/Privacy-Policy-Designing-Fever.gif?raw=true" width="200" height="320" />
+ </div>
 </div>
-<div>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/Privacy-Policy-Designing-Fever.gif?raw=true" width="200" height="320" />
-</div>
-</div>
-
+<br/>
 ## Find me around the web 🌎: 
 <a href="https://github.com/cmmishra9" style="margin-right:10px;"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Chandan Mishra</a> 📹 ✍🏾
