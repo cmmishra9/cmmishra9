@@ -28,8 +28,8 @@
 - ⚡ Fun fact: Ironman == Fe-male
 
 <div style="display:flex;flex-direction:column;padding:2px;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
+  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmmishra9&show_icons=true&locale=en" alt="cmmishra9" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmmishra9&show_icons=true&locale=en" alt="cmmishra9" /></p>
 
 </div>
