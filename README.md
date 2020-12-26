@@ -1,4 +1,5 @@
- # Hi, I'm Chandan 👋 👋🏾 👩🏾‍💻
+ <h1 align="center">Hi 👋, I'm Chandan Mishra</h1>
+<h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 👋 👋🏾 👩🏾‍💻
 
 ![Banner with Chandan mishra, Software Developer, Founder of iqbotics, Mentors](https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/profile-header.png)
 <div >
@@ -25,3 +26,9 @@
 - 😄 Pronouns: CHANDAN
 - ⚡ Fun fact: Ironman == Fe-male
 
+<div style="display:flex;flex-direction:column;padding:2px;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmmishra9&show_icons=true&locale=en" alt="cmmishra9" /></p>
+
+</div>
