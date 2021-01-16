@@ -3,13 +3,12 @@
 <h1 align="center">Hi 👋, I'm Chandan Mishra 👋 👋🏾 👩🏾‍💻</h1>
 <h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 
 
-<div style="display:flex;">
- <div  style="float:left">
+<div>
+ <p  style="float:left;">
  I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the Tech ecosystem led me to found Iqbotics India, a company for AI and Robotics design & development.
- </div>
- <div align="right" style="float:right;">
- <img alt="GIF" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/Privacy-Policy-Designing-Fever.gif?raw=true" width="200" height="320" />
- </div>
+ </p>
+ 
+ <img alt="GIF" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/Privacy-Policy-Designing-Fever.gif?raw=true" width="200" height="320" style="float:right;" />
 </div>
 <br>
 
