@@ -14,11 +14,14 @@
 <br>
 
 ## Find me around the web 🌎: 
-<a href="https://github.com/cmmishra9" style="margin-right:10px;"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png"></a>
+<a href="https://github.com/cmmishra9" style="margin-right:10px;float: left;">
+ <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png">
+</a>
+<p style="float: right;">
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Chandan Mishra</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/cmmishra9"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
-
+</p>
 - 🔭 I’m currently working on Internwala
 - 🌱 I’m currently learning Go Language
 - 👯 I’m looking to collaborate on Interview app API
@@ -26,17 +29,7 @@
 - 📫 How to reach me: <a href="https://www.iqbotics.com">website</a> 💼
 - 😄 Pronouns: CHANDAN
 - ⚡ Fun fact: Ironman == Fe-male
-<dl>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. HTML tags work, in most cases.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>
-
-  Does *not* work **very** well. HTML tags work, in most cases.
-
-  </dd>
-</dl>
+<hr/>
 <div style="display:flex;flex-direction:column;padding:2px;">
   <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmmishra9&show_icons=true&locale=en" alt="cmmishra9" /></p>
