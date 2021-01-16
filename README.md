@@ -22,13 +22,15 @@
 - Tinkering with interactions on <a href="https://codepen.io/cmmishra9"> Codepen</a> 🏓<br/>
 - Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
 </p>
-- 🔭 I’m currently working on Internwala <br/>
-- 🌱 I’m currently learning Go Language <br/>
-- 👯 I’m looking to collaborate on Interview app API <br/>
-- 💬 Ask me about Development & design
-- 📫 How to reach me: <a href="https://www.iqbotics.com">website</a> 💼 <br/>
-- 😄 Pronouns: CHANDAN <br/>
-- ⚡ Fun fact: Ironman == Fe-male <br/>
+<p style="float: right;">
+    - 🔭 I’m currently working on Internwala <br/>
+    - 🌱 I’m currently learning Go Language <br/>
+    - 👯 I’m looking to collaborate on Interview app API <br/>
+    - 💬 Ask me about Development & design
+    - 📫 How to reach me: <a href="https://www.iqbotics.com">website</a> 💼 <br/>
+    - 😄 Pronouns: CHANDAN <br/>
+    - ⚡ Fun fact: Ironman == Fe-male <br/>
+</p>
 <hr/>
 <div style="display:flex;flex-direction:column;padding:2px;">
   <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
