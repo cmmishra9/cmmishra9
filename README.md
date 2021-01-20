@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Chandan Mishra 👋 👋🏾 👩🏾‍💻</h1>
 <h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 
 
-<div>
  <p  style="float:left;">
  I'm a software enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include,PHP ReactJS, Fullstack (JavaScript, MEAN, MERN, Vuejs, APIs + Markup) and Laravel. I recently was selected to be an inaugural GitHub Star 🌟 based on my involvement in the tech community. My interest in the Tech ecosystem led me to found Iqbotics India, a company for AI and Robotics design & development.
  </p>
@@ -34,6 +33,4 @@
   <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmmishra9&show_icons=true&locale=en" alt="cmmishra9" /></p>
 </div>
-<p style="padding-top:20px">
- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
- </p>
+
