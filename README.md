@@ -34,3 +34,6 @@
   <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmmishra9&show_icons=true&locale=en" alt="cmmishra9" /></p>
 </div>
+<p style="padding-top:20px">
+ <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+ </p>
