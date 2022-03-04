@@ -1,6 +1,6 @@
 
 ![Banner with Chandan mishra, Software Developer, Founder of iqbotics, Mentors](https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/profile-header.png)
-<h1 align="center">Hi 👋, I'm Chandan Mishra 👋 👋🏾 👩🏾‍💻</h1>
+<h1 align="center">Hi 👋, I'm Chandan Mishra 👋 👋</h1>
 <h3 align="center">Engineer By Profession, Curious By Nature !!</h3> 
 
  <p  style="float:left;">
