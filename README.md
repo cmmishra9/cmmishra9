@@ -15,7 +15,7 @@
  <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png">
 </a>
 <p style="float: right;">
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Chandan Mishra</a> 📹 ✍🏾 <br/>
+- Learning in public on <a href="https://www.twitch.tv/blacktechgod">Twitch</a> or <a href="https://www.iqbotics.com/">Chandan Mishra</a> 📹 ✍🏾 <br/>
 - Tinkering with interactions on <a href="https://codepen.io/cmmishra9"> Codepen</a> 🏓<br/>
 - Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
 </p>
