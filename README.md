@@ -20,8 +20,8 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
 </p>
 <p style="float: right;">
- - 🔭 I’m currently working on <a href="https://www.sapmantra.com">Sap Mantra</a> <br/>
-    - 🌱 I’m currently learning Go Language <br/>
+ - 🔭 I’m currently working on <a href="https://cmmishra.in">My Portfolio</a> <br/>
+    - 🌱 I’m currently learning Nodejs Language <br/>
     - 👯 I’m looking to collaborate on Decentralised Blood Donation App <br/>
     - 💬 Ask me about Development & design
     - 📫 How to reach me: <a href="https://www.cmmishra.in">website</a> 💼 <br/>
